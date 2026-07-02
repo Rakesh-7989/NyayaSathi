@@ -42,16 +42,12 @@ export default function Home() {
             <span className="font-bold text-xl">NyayaSathi</span>
             <Badge variant="secondary" className="ml-2">MVP</Badge>
           </div>
-          <div className="flex items-center gap-3">
-            <Link href="/chat">
-              <Button variant="ghost">Chat</Button>
-            </Link>
-            <Link href="/health-check">
-              <Button variant="ghost">Health Check</Button>
-            </Link>
-            <Link href="/chat">
-              <Button>Get Started</Button>
-            </Link>
+          <div className="flex items-center gap-1">
+            <Link href="/chat"><Button variant="ghost" size="sm">Chat</Button></Link>
+            <Link href="/health-check"><Button variant="ghost" size="sm">Health</Button></Link>
+            <Link href="/documents"><Button variant="ghost" size="sm">Docs</Button></Link>
+            <Link href="/complaints"><Button variant="ghost" size="sm">Complaints</Button></Link>
+            <Link href="/chat"><Button size="sm" className="ml-2">Get Started</Button></Link>
           </div>
         </div>
       </header>
