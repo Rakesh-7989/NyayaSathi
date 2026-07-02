@@ -1,0 +1,1967 @@
+[
+  {
+    "id": "const_fundamental_rights",
+    "keywords": [
+      "fundamental rights",
+      "మౌలిక హక్కులు",
+      "article 14",
+      "article 19",
+      "article 21",
+      "right to equality",
+      "right to freedom",
+      "right to life",
+      "right to constitution"
+    ],
+    "topics": [
+      "constitution"
+    ],
+    "question_te": "మౌలిక హక్కులు ఏవి?",
+    "question_en": "What are fundamental rights?",
+    "answer_te": "భారత రాజ్యాంగంలోని పార్ట్ III (ఆర్టికల్స్ 12-35) ప్రకారం ఆరు మౌలిక హక్కులు ఉన్నాయి:\n\n1. **సమానత్వ హక్కు (ఆర్టికల్స్ 14-18)**: చట్టం ముందు అందరూ సమానం, వివక్ష నిషేధం, అవకాశాల సమానత్వం\n2. **స్వేచ్ఛా హక్కు (ఆర్టికల్స్ 19-22)**: వాక్ స్వేచ్ఛ, సమావేశ స్వేచ్ఛ, సంఘాల ఏర్పాటు, నివాస స్వేచ్ఛ, వృత్తి స్వేచ్ఛ\n3. **దోపిడీకి వ్యతిరేకంగా హక్కు (ఆర్టికల్స్ 23-24)**: బలవంతపు శ్రమ నిషేధం, బాల కార్మికుల నిషేధం\n4. **మత స్వేచ్ఛ హక్కు (ఆర్టికల్స్ 25-28)**: మతాన్ని ఆచరించే, ప్రచారం చేసే స్వేచ్ఛ\n5. **సాంస్కృతిక మరియు విద్యా హక్కులు (ఆర్టికల్స్ 29-30)**: మైనారిటీల సంస్కృతి పరిరక్షణ, విద్యాసంస్థల ఏర్పాటు\n6. **రాజ్యాంగ పరిహార హక్కు (ఆర్టికల్ 32)**: మౌలిక హక్కుల అమలు కోసం సుప్రీం కోర్టును ఆశ్రయించే హక్కు",
+    "answer_en": "The Indian Constitution Part III (Articles 12-35) guarantees six fundamental rights: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, and Right to Constitutional Remedies.",
+    "citations": [
+      {
+        "act": "Constitution of India",
+        "section": "Part III (Articles 12-35)",
+        "text": "Fundamental Rights"
+      },
+      {
+        "act": "Constitution of India",
+        "section": "Article 14",
+        "text": "Equality before law"
+      },
+      {
+        "act": "Constitution of India",
+        "section": "Article 21",
+        "text": "Right to life and personal liberty"
+      },
+      {
+        "act": "Constitution of India",
+        "section": "Article 32",
+        "text": "Right to Constitutional remedies"
+      }
+    ]
+  },
+  {
+    "id": "const_writs",
+    "keywords": [
+      "writ",
+      "రిట్",
+      "habeas corpus",
+      "హేబియస్ కార్పస్",
+      "mandamus",
+      "మాండమస్",
+      "certiorari",
+      "prohibition",
+      "quo warranto",
+      "supreme court",
+      "high court",
+      "సుప్రీం కోర్టు",
+      "హైకోర్టు"
+    ],
+    "topics": [
+      "constitution"
+    ],
+    "question_te": "రిట్ పిటిషన్ అంటే ఏమిటి? ఎన్ని రకాల రిట్‌లు ఉన్నాయి?",
+    "question_en": "What is a writ petition?",
+    "answer_te": "రిట్ పిటిషన్ అనేది మౌలిక హక్కులు ఉల్లంఘించబడినప్పుడు కోర్టును ఆశ్రయించే మార్గం. ఐదు రకాల రిట్‌లు:\n\n1. **హేబియస్ కార్పస్**: చట్టవిరుద్ధ నిర్బంధం నుండి విడుదల\n2. **మాండమస్**: ప్రభుత్వ అధికారికి విధి నిర్వర్తించాలని ఆదేశం\n3. **ప్రొహిబిషన్**: దిగువ కోర్టును నిషేధించడం\n4. **సెర్షియోరారీ**: దిగువ కోర్టు నిర్ణయాన్ని రద్దు చేయడం\n5. **క్వో వారంటో**: పబ్లిక్ ఆఫీసును చట్టబద్ధంగా ఆక్రమించారో లేదో విచారించడం",
+    "answer_en": "Five types of writs: Habeas Corpus (unlawful detention), Mandamus (direct public official), Prohibition (stop lower court), Certiorari (quash lower court order), Quo Warranto (challenge public office).",
+    "citations": [
+      {
+        "act": "Constitution of India",
+        "section": "Article 32",
+        "text": "Right to Constitutional remedies"
+      },
+      {
+        "act": "Constitution of India",
+        "section": "Article 226",
+        "text": "Power of High Courts to issue writs"
+      }
+    ]
+  },
+  {
+    "id": "const_article21",
+    "keywords": [
+      "article 21",
+      "right to life",
+      "జీవించే హక్కు",
+      "personal liberty",
+      "వ్యక్తిగత స్వేచ్ఛ",
+      "right to privacy",
+      "గోప్యతా హక్కు"
+    ],
+    "topics": [
+      "constitution"
+    ],
+    "question_te": "ఆర్టికల్ 21 ప్రకారం జీవించే హక్కు అంటే ఏమిటి?",
+    "question_en": "What is right to life under Article 21?",
+    "answer_te": "ఆర్టికల్ 21 ప్రకారం చట్టం ద్వారా ఏర్పాటు చేయబడిన విధానం ప్రకారం తప్ప ఏ వ్యక్తి జీవితాన్ని లేదా వ్యక్తిగత స్వేచ్ఛను కోల్పోకూడదు. ఇందులో గౌరవంగా జీవించే హక్కు, గోప్యతా హక్కు (2017 ప్రకటన), శుభ్రమైన పర్యావరణంలో జీవించే హక్కు, ఆరోగ్యకరమైన జీవితానికి హక్కు, విద్యా హక్కు, జీవనోపాధి హక్కు, వేగవంతమైన విచారణ హక్కు, ఆహార హక్కు ఉన్నాయి.",
+    "answer_en": "Article 21 protects life and personal liberty. SC has interpreted this broadly to include: dignity, privacy (2019 judgment), clean environment, health, education, livelihood, speedy trial, and food.",
+    "citations": [
+      {
+        "act": "Constitution of India",
+        "section": "Article 21",
+        "text": "Right to life and personal liberty"
+      },
+      {
+        "act": "Constitution of India",
+        "section": "Article 21",
+        "text": "K.S. Puttaswamy v. Union of India (Right to Privacy)"
+      }
+    ]
+  },
+  {
+    "id": "const_equality",
+    "keywords": [
+      "equality",
+      "సమానత్వం",
+      "article 14",
+      "discrimination",
+      "వివక్ష",
+      "equal opportunity",
+      "సమాన అవకాశాలు",
+      "caste discrimination"
+    ],
+    "topics": [
+      "constitution"
+    ],
+    "question_te": "సమానత్వ హక్కు అంటే ఏమిటి? వివక్ష నుండి రక్షణ ఎలా పొందాలి?",
+    "question_en": "How to get protection from discrimination?",
+    "answer_te": "ఆర్టికల్ 14 ప్రకారం చట్టం ముందు అందరూ సమానమే. ఆర్టికల్ 15 మతం, జాతి, కులం, లింగం, జన్మస్థలం ఆధారంగా వివక్షను నిషేధిస్తుంది. ఆర్టికల్ 16 ప్రభుత్వ ఉద్యోగాలలో అవకాశాల సమానత్వం హామీ ఇస్తుంది. వివక్ష ఎదురైతే సుప్రీం కోర్ట్ లేదా హైకోర్టులో రిట్ పిటిషన్ దాఖలు చేయవచ్చు.",
+    "answer_en": "Article 14 guarantees equality before law. Article 15 prohibits discrimination. Article 16 ensures equal opportunity in public employment. File writ petition in SC/HC.",
+    "citations": [
+      {
+        "act": "Constitution of India",
+        "section": "Articles 14-18",
+        "text": "Right to Equality"
+      },
+      {
+        "act": "Constitution of India",
+        "section": "Article 15",
+        "text": "Prohibition of discrimination"
+      }
+    ]
+  },
+  {
+    "id": "const_directive_principles",
+    "keywords": [
+      "directive principles",
+      "dpsp",
+      "రాజ్య నీతి నిర్దేశక సూత్రాలు",
+      "article 36",
+      "article 51"
+    ],
+    "topics": [
+      "constitution"
+    ],
+    "question_te": "రాజ్య నీతి నిర్దేశక సూత్రాలు అంటే ఏమిటి?",
+    "question_en": "What are Directive Principles of State Policy?",
+    "answer_te": "DPSP పార్ట్ IV (ఆర్టికల్స్ 36-51)లో ఉన్నాయి. ఇవి న్యాయబద్ధం కావు కానీ ప్రభుత్వ నీతి నిర్ణయాలకు మార్గదర్శకాలు. ముఖ్యమైన సూత్రాలు: గ్రామ పంచాయతీలు (ఆర్టికల్ 40), సమాన వేతనం (ఆర్టికల్ 39), ఉచిత న్యాయ సహాయం (ఆర్టికల్ 39A), పని హక్కు మరియు విద్య (ఆర్టికల్ 41), పర్యావరణ పరిరక్షణ (ఆర్టికల్ 48A), అంతర్జాతీయ శాంతి (ఆర్టికల్ 51).",
+    "answer_en": "DPSP in Part IV are non-justiciable guidelines: village panchayats, equal pay, free legal aid, right to work, environmental protection, international peace.",
+    "citations": [
+      {
+        "act": "Constitution of India",
+        "section": "Articles 36-51",
+        "text": "Directive Principles"
+      },
+      {
+        "act": "Constitution of India",
+        "section": "Article 39A",
+        "text": "Free legal aid"
+      }
+    ]
+  },
+  {
+    "id": "bns_theft",
+    "keywords": [
+      "theft",
+      "దొంగతనం",
+      "bns 303",
+      "bns 304",
+      "bns 305",
+      "చౌర్యం",
+      "stealing",
+      "దొంగిలించడం",
+      "bns section 303"
+    ],
+    "topics": [
+      "bns"
+    ],
+    "question_te": "దొంగతనానికి శిక్ష ఏమిటి?",
+    "question_en": "Punishment for theft under BNS?",
+    "answer_te": "BNS 2023 సెక్షన్ 303 ప్రకారం దొంగతనం శిక్ష: సాధారణ దొంగతనం 3 సంవత్సరాల వరకు జైలు + జరిమానా. రాత్రి వేళ దొంగతనం (సెక్షన్ 305) 7 సంవత్సరాల వరకు. సిద్ధపాటుతో దొంగతనం (సెక్షన్ 304) 10 సంవత్సరాల వరకు. గృహ ప్రవేశ దొంగతనం 7 సంవత్సరాల వరకు.",
+    "answer_en": "BNS 2023 Section 303: Theft up to 3 years + fine. Night theft (S.305) up to 7 years. Preparation theft (S.304) up to 10 years. Dwelling house theft up to 7 years.",
+    "citations": [
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 303",
+        "text": "Punishment for theft"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 304",
+        "text": "Theft after preparation"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 305",
+        "text": "Theft at night"
+      }
+    ]
+  },
+  {
+    "id": "bns_assault",
+    "keywords": [
+      "assault",
+      "దాడి",
+      "bns 131",
+      "bns 132",
+      "grievous hurt",
+      "తీవ్రమైన గాయం",
+      "beating",
+      "కొట్టడం",
+      "సాధారణ గాయం",
+      "hurt"
+    ],
+    "topics": [
+      "bns"
+    ],
+    "question_te": "దాడి మరియు గాయం చేయడానికి శిక్ష ఏమిటి?",
+    "question_en": "Punishment for assault and hurt?",
+    "answer_te": "BNS 2023: సాధారణ గాయం (సెక్షన్ 131) 1 సంవత్సరం వరకు జైలు లేదా ₹5,000 జరిమానా. తీవ్రమైన గాయం (సెక్షన్ 132) 7 సంవత్సరాల వరకు జైలు + జరిమానా. దాడి (సెక్షన్ 128) 3 నెలల వరకు జైలు లేదా ₹500 జరిమానా. గాయం తీవ్రతను బట్టి శిక్ష మారుతుంది.",
+    "answer_en": "Simple hurt (S.131) up to 1 year/₹5,000. Grievous hurt (S.132) up to 7 years + fine. Assault (S.128) up to 3 months/₹500.",
+    "citations": [
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 128",
+        "text": "Assault"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 131",
+        "text": "Simple hurt"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 132",
+        "text": "Grievous hurt"
+      }
+    ]
+  },
+  {
+    "id": "bns_murder",
+    "keywords": [
+      "murder",
+      "హత్య",
+      "bns 101",
+      "bns 103",
+      "bns 105",
+      "culpable homicide",
+      "నేరపూరిత హత్య",
+      "killing",
+      "చంపడం"
+    ],
+    "topics": [
+      "bns"
+    ],
+    "question_te": "హత్య మరియు నేరపూరిత హత్యకు తేడా ఏమిటి?",
+    "question_en": "Difference between murder and culpable homicide?",
+    "answer_te": "BNS 2023: నేరపూరిత హత్య (సెక్షన్ 101) - మరణాన్ని కలిగించే ఉద్దేశ్యంతో చేసిన చర్య, జీవిత ఖైదు లేదా 10 సంవత్సరాల వరకు. హత్య (సెక్షన్ 103) - ముందస్తు ఉద్దేశ్యంతో చేసిన హత్య, జీవిత ఖైదు లేదా మరణ శిక్ష. క్షమాపణ అర్హులైన హత్య (సెక్షన్ 105) - ఆకస్మిక ప్రకోపం/ఆత్మరక్షణ మించిన హత్య, 10 సంవత్సరాల వరకు.",
+    "answer_en": "Culpable Homicide (S.101): life or 10 years. Murder (S.103): life or death. Not amounting to murder (S.105): sudden provocation, up to 10 years.",
+    "citations": [
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 101",
+        "text": "Culpable homicide"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 103",
+        "text": "Murder"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 105",
+        "text": "Not amounting to murder"
+      }
+    ]
+  },
+  {
+    "id": "bns_defamation",
+    "keywords": [
+      "defamation",
+      "మాననష్టం",
+      "bns 356",
+      "bns 357",
+      "పరువు నష్టం",
+      "libel",
+      "slander",
+      "అపనింద"
+    ],
+    "topics": [
+      "bns"
+    ],
+    "question_te": "మాననష్టం కేసు ఎలా దాఖలు చేయాలి?",
+    "question_en": "How to file defamation case?",
+    "answer_te": "BNS సెక్షన్ 356 ప్రకారం మాననష్టం అంటే ఇతరుల పరువుకు హాని కలిగించే మాటలు, రచన లేదా సంకేతాలు. రెండు రకాలు: లిబెల్ (శాశ్వత రూపం) మరియు స్లాండర్ (మాటలు). శిక్ష (సెక్షన్ 357): 2 సంవత్సరాల వరకు జైలు + జరిమానా. మేజిస్ట్రేట్ కోర్టులో ఫిర్యాదు దాఖలు చేయండి. నిజమైన విషయాన్ని ప్రజా ప్రయోజనం కోసం ప్రచురించినట్లయితే అది మాననష్టం కాదు.",
+    "answer_en": "Defamation (S.356): harming reputation. Libel (written) and Slander (spoken). Punishment (S.357): up to 2 years + fine. Truth for public good is valid defense.",
+    "citations": [
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 356",
+        "text": "Defamation defined"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 357",
+        "text": "Punishment for defamation"
+      }
+    ]
+  },
+  {
+    "id": "bns_cheating",
+    "keywords": [
+      "cheating",
+      "మోసం",
+      "bns 318",
+      "bns 319",
+      "bns 314",
+      "fraud",
+      "ఫ్రాడ్",
+      "breach of trust",
+      "నమ్మక ద్రోహం",
+      "deception"
+    ],
+    "topics": [
+      "bns"
+    ],
+    "question_te": "మోసం మరియు నమ్మక ద్రోహానికి శిక్ష ఏమిటి?",
+    "question_en": "Punishment for cheating and breach of trust?",
+    "answer_te": "BNS 2023: సాధారణ మోసం (సెక్షన్ 318) 1-3 సంవత్సరాలు + జరిమానా. మోసపూరిత వివాహ వాగ్దానం (సెక్షన్ 319) 3-10 సంవత్సరాలు + జరిమానా. నమ్మక ద్రోహం (సెక్షన్ 314) 5 సంవత్సరాల వరకు + జరిమానా. సైబర్ మోసం కూడా IT చట్టం 2000 క్రింద శిక్షార్హం.",
+    "answer_en": "Cheating (S.318) 1-3 years. Fraudulent marriage promise (S.319) 3-10 years. Criminal breach of trust (S.314) up to 5 years.",
+    "citations": [
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 318",
+        "text": "Cheating"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 314",
+        "text": "Criminal breach of trust"
+      }
+    ]
+  },
+  {
+    "id": "bns_robbery",
+    "keywords": [
+      "robbery",
+      "దోపిడీ",
+      "dacoity",
+      "డకాయితీ",
+      "bns 308",
+      "bns 311",
+      "extortion",
+      "బెదిరింపు",
+      "bns 306"
+    ],
+    "topics": [
+      "bns"
+    ],
+    "question_te": "దోపిడీ, డకాయితీ మరియు దొంగతనానికి తేడా ఏమిటి?",
+    "question_en": "Difference between theft, robbery, dacoity?",
+    "answer_te": "దొంగతనం (సెక్షన్ 303): అనుమతి లేకుండా ఆస్తి తీసుకెళ్ళడం. దోపిడీ (సెక్షన్ 308): దొంగతనం + బెదిరింపు/హింస, 10 సంవత్సరాల వరకు. డకాయితీ (సెక్షన్ 311): 5+ మంది కలిసి దోపిడీ, జీవిత ఖైదు లేదా 10 సంవత్సరాలు. బెదిరింపు (సెక్షన్ 306-307): 3 సంవత్సరాల వరకు.",
+    "answer_en": "Theft (S.303): taking without consent. Robbery (S.308): theft + threat/violence, up to 10 years. Dacoity (S.311): 5+ persons, life or 10 years. Extortion (S.306): up to 3 years.",
+    "citations": [
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 308",
+        "text": "Robbery"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 311",
+        "text": "Dacoity"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 306",
+        "text": "Extortion"
+      }
+    ]
+  },
+  {
+    "id": "bns_criminal_force",
+    "keywords": [
+      "criminal force",
+      "క్రిమినల్ ఫోర్స్",
+      "wrongful restraint",
+      "తప్పుడు నిర్బంధం",
+      "wrongful confinement",
+      "bns 127",
+      "bns 133",
+      "bns 135"
+    ],
+    "topics": [
+      "bns"
+    ],
+    "question_te": "క్రిమినల్ ఫోర్స్ మరియు తప్పుడు నిర్బంధం శిక్ష ఏమిటి?",
+    "question_en": "Punishment for criminal force and wrongful restraint?",
+    "answer_te": "BNS 2023: క్రిమినల్ ఫోర్స్ (సెక్షన్ 127-128) 3-6 నెలల జైలు లేదా ₹500-1000 జరిమానా. తప్పుడు నిర్బంధం (సెక్షన్ 133) 1 నెల లేదా ₹500 జరిమానా. తప్పుడు బంధనం (సెక్షన్ 135) 1 సంవత్సరం వరకు + జరిమానా.",
+    "answer_en": "Criminal force (S.127) 3-6 months. Wrongful restraint (S.133) 1 month. Wrongful confinement (S.135) up to 1 year.",
+    "citations": [
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 127",
+        "text": "Criminal force"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 133",
+        "text": "Wrongful restraint"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 135",
+        "text": "Wrongful confinement"
+      }
+    ]
+  },
+  {
+    "id": "bns_kidnapping",
+    "keywords": [
+      "kidnapping",
+      "కిడ్నాప్",
+      "abduction",
+      "అపహరణ",
+      "bns 137",
+      "bns 139",
+      "bns 140",
+      "ransom"
+    ],
+    "topics": [
+      "bns"
+    ],
+    "question_te": "కిడ్నాప్ మరియు అపహరణకు శిక్ష ఏమిటి?",
+    "question_en": "Punishment for kidnapping?",
+    "answer_te": "BNS 2023: మైనర్ కిడ్నాప్ (సెక్షన్ 137) 7 సంవత్సరాల వరకు + జరిమానా. విమోచన క్రయం కోసం (సెక్షన్ 139) జీవిత ఖైదు; బాధితుడు చనిపోతే మరణ శిక్ష. అపహరణ (సెక్షన్ 140) 7 సంవత్సరాల వరకు + జరిమానా.",
+    "answer_en": "Kidnapping minor (S.137) up to 7 years. For ransom (S.139) life imprisonment. Abduction (S.140) up to 7 years.",
+    "citations": [
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 137",
+        "text": "Kidnapping minor"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 139",
+        "text": "Kidnapping for ransom"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 140",
+        "text": "Abduction"
+      }
+    ]
+  },
+  {
+    "id": "bns_public_nuisance",
+    "keywords": [
+      "public nuisance",
+      "ప్రజా ఇబ్బంది",
+      "bns 289",
+      "bns 292",
+      "noise pollution",
+      "శబ్ద కాలుష్యం",
+      "public health"
+    ],
+    "topics": [
+      "bns"
+    ],
+    "question_te": "ప్రజా ఇబ్బందికి శిక్ష ఏమిటి?",
+    "question_en": "Punishment for public nuisance?",
+    "answer_te": "BNS 2023 సెక్షన్ 289: ప్రజా ఇబ్బందికి ₹200 వరకు జరిమానా. నిరంతర ఇబ్బందికి సెక్షన్ 292 ప్రకారం ₹200 వరకు రోజువారీ జరిమానా. పోలీసులకు ఫిర్యాదు చేయండి. కోర్టులో సివిల్ సూట్ కూడా వేయవచ్చు.",
+    "answer_en": "BNS Section 289: public nuisance fine up to ₹200. Continuing nuisance ₹200/day. File police complaint or civil suit.",
+    "citations": [
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 289",
+        "text": "Public nuisance"
+      }
+    ]
+  },
+  {
+    "id": "bnss_arrest",
+    "keywords": [
+      "arrest",
+      "అరెస్ట్",
+      "bnss 35",
+      "bnss 41",
+      "bnss 58",
+      "పోలీసు అరెస్ట్",
+      "arrest without warrant",
+      "వారెంట్",
+      "పోలీసులు అరెస్ట్"
+    ],
+    "topics": [
+      "bnss"
+    ],
+    "question_te": "పోలీసులు వారెంట్ లేకుండా అరెస్ట్ చేయవచ్చా? హక్కులేమిటి?",
+    "question_en": "Can police arrest without warrant? Rights?",
+    "answer_te": "BNSS 2023 సెక్షన్ 35: హత్య, దోపిడీ వంటి తీవ్రమైన నేరాలకు మాత్రమే వారెంట్ లేకుండా అరెస్ట్ చేయవచ్చు. అరెస్ట్ అయినప్పుడు హక్కులు: (1) కారణం తెలియజేయాలి (సెక్షన్ 41), (2) న్యాయవాదిని సంప్రదించే హక్కు, (3) 24 గంటలలోపు మెజిస్ట్రేట్ ముందు హాజరు (సెక్షన్ 58), (4) వైద్య పరీక్ష హక్కు.",
+    "answer_en": "BNSS Section 35: Warrantless arrest only for serious offenses. Rights: know grounds (S.41), consult lawyer, before magistrate within 24 hrs (S.58), medical exam.",
+    "citations": [
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 35",
+        "text": "Arrest without warrant"
+      },
+      {
+        "act": "Constitution of India",
+        "section": "Article 22",
+        "text": "Protection against arrest"
+      },
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 58",
+        "text": "Production within 24 hours"
+      }
+    ]
+  },
+  {
+    "id": "bnss_fir",
+    "keywords": [
+      "fir",
+      "ఎఫ్ఐఆర్",
+      "bnss 173",
+      "bnss 175",
+      "zero fir",
+      "జీరో ఎఫ్ఐఆర్",
+      "police complaint",
+      "పోలీసు ఫిర్యాదు",
+      "FIR నమోదు",
+      "cognizable"
+    ],
+    "topics": [
+      "bnss"
+    ],
+    "question_te": "FIR ఎలా నమోదు చేయాలి? పోలీసులు నమోదు చేయకపోతే?",
+    "question_en": "How to file FIR? Police refusing?",
+    "answer_te": "BNSS 2023 సెక్షన్ 173: తీవ్రమైన నేరాలకు FIR తప్పనిసరి. పోలీసులు నమోదు చేయకపోతే DSP (సెక్షన్ 175(3)) లేదా మేజిస్ట్రేట్ ను ఆశ్రయించండి. జీరో FIR: ఏ స్టేషన్ లోనైనా నమోదు చేయించుకోవచ్చు, తర్వాత సంబంధిత స్టేషన్ కు బదిలీ. FIR లో నేరం, తేదీ, స్థలం, నిందితులు, సాక్షులు, సాక్ష్యాలు వివరించాలి.",
+    "answer_en": "BNSS Section 173: FIR mandatory for cognizable offenses. If refused, approach DSP (S.175(3)) or Magistrate. Zero FIR can be filed at any station.",
+    "citations": [
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 173",
+        "text": "FIR for cognizable offenses"
+      },
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 175",
+        "text": "Procedure when FIR refused"
+      }
+    ]
+  },
+  {
+    "id": "bnss_bail",
+    "keywords": [
+      "bail",
+      "జామీను",
+      "bnss 478",
+      "bnss 482",
+      "anticipatory bail",
+      "ముందస్తు జామీను",
+      "regular bail",
+      "bail application"
+    ],
+    "topics": [
+      "bnss"
+    ],
+    "question_te": "జామీను మరియు ముందస్తు జామీను ఎలా పొందాలి?",
+    "question_en": "How to get regular and anticipatory bail?",
+    "answer_te": "BNSS 2023: రెగ్యులర్ బెయిల్ (సెక్షన్ 478) అరెస్ట్ తర్వాత కోర్టు నుండి పొందవచ్చు. ముందస్తు జామీను (సెక్షన్ 482) అరెస్ట్ ముందు హైకోర్ట్/సెషన్స్ కోర్ట్ నుండి పొందవచ్చు. బెయిల్ దరఖాస్తుకు న్యాయవాది, కేసు వివరాలు, నిర్దోషిత్వానికి ప్రాథమిక ఆధారాలు, విచారణకు అందుబాటులో ఉంటానని హామీ అవసరం. తిరస్కరించిన హైకోర్టు/సుప్రీం కోర్టులో పునర్విచారణ.",
+    "answer_en": "Regular bail (S.478): after arrest. Anticipatory bail (S.482): before arrest from HC/Sessions Court. Need lawyer, case details, prima facie innocence, cooperation undertaking.",
+    "citations": [
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 478",
+        "text": "Bail for non-bailable offenses"
+      },
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 482",
+        "text": "Anticipatory bail"
+      }
+    ]
+  },
+  {
+    "id": "bnss_cognizance",
+    "keywords": [
+      "cognizance",
+      "కాగ్నిజెన్స్",
+      "bnss 196",
+      "bnss 187",
+      "trial procedure",
+      "విచారణ విధానం",
+      "chargesheet",
+      "చార్జిషీట్",
+      "default bail"
+    ],
+    "topics": [
+      "bnss"
+    ],
+    "question_te": "కోర్టులో విచారణ విధానం ఏమిటి?",
+    "question_en": "What is the trial procedure?",
+    "answer_te": "BNSS 2023 విచారణ విధానం: (1) FIR (సెక్షన్ 173), (2) దర్యాప్తు (సెక్షన్ 175-192), (3) 90 రోజులలోపు చార్జిషీట్, (4) మేజిస్ట్రేట్ కాగ్నిజెన్స్ (సెక్షన్ 196), (5) నేరారోపణ రీడింగ్, (6) విచారణ - ప్రాసిక్యూషన్ మరియు డిఫెన్స్ సాక్ష్యాలు, (7) తీర్పు. 90 రోజులలో చార్జిషీట్ దాఖలు కాకపోతే డిఫాల్ట్ బెయిల్ (సెక్షన్ 187).",
+    "answer_en": "Trial: (1) FIR, (2) Investigation, (3) Chargesheet within 90 days, (4) Cognizance (S.196), (5) Trial, (6) Judgment. Default bail (S.187) if chargesheet delayed.",
+    "citations": [
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 196",
+        "text": "Cognizance by Magistrate"
+      },
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 187",
+        "text": "Default bail"
+      }
+    ]
+  },
+  {
+    "id": "bnss_summon",
+    "keywords": [
+      "summons",
+      "సమన్లు",
+      "bnss 61",
+      "bnss 67",
+      "వారెంట్",
+      "కోర్టు సమన్లు",
+      "court notice"
+    ],
+    "topics": [
+      "bnss"
+    ],
+    "question_te": "కోర్టు నుండి సమన్లు/వారెంట్ వస్తే ఏమి చేయాలి?",
+    "question_en": "What to do if court issues summons or warrant?",
+    "answer_te": "BNSS 2023: సమన్లు (సెక్షన్ 61) కోర్టు ముందు హాజరు కావాల్సిందిగా ఆదేశం. తప్పక హాజరు కావాలి. హాజరు కాకపోతే వారెంట్ జారీ కావచ్చు. వారెంట్ (సెక్షన్ 67) నేరస్థుడిని కోర్టు ముందు హాజరుపరచాలని ఆదేశం. న్యాయవాదిని సంప్రదించండి, పత్రాలు సిద్ధం చేసుకోండి.",
+    "answer_en": "Summons (S.61): MUST appear in court. Warrant (S.67): for arrest. Consult lawyer, prepare documents.",
+    "citations": [
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 61",
+        "text": "Summons"
+      },
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 67",
+        "text": "Warrant of arrest"
+      }
+    ]
+  },
+  {
+    "id": "bnss_remand",
+    "keywords": [
+      "remand",
+      "రిమాండ్",
+      "police custody",
+      "పోలీసు కస్టడీ",
+      "judicial custody",
+      "bnss 183",
+      "bnss 187"
+    ],
+    "topics": [
+      "bnss"
+    ],
+    "question_te": "రిమాండ్ అంటే ఏమిటి? ఎంత కాలం ఉంటుంది?",
+    "question_en": "What is remand? How long?",
+    "answer_te": "BNSS 2023: పోలీసు కస్టడీ రిమాండ్ 15 రోజుల వరకు (సెక్షన్ 183). జ్యుడీషియల్ కస్టడీ 60/90 రోజుల వరకు. మేజిస్ట్రేట్ మాత్రమే రిమాండ్ ఆర్డర్ ఇవ్వగలరు. 60/90 రోజులలోపు చార్జిషీట్ దాఖలు కాకపోతే డిఫాల్ట్ బెయిల్ (సెక్షన్ 187).",
+    "answer_en": "Police custody remand up to 15 days (S.183). Judicial custody up to 60/90 days. Default bail (S.187) if chargesheet not filed.",
+    "citations": [
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 183",
+        "text": "Remand procedure"
+      },
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 187",
+        "text": "Default bail"
+      }
+    ]
+  },
+  {
+    "id": "bnss_plea_bargaining",
+    "keywords": [
+      "plea bargaining",
+      "ప్లీ బార్గెనింగ్",
+      "bnss 293",
+      "plea deal",
+      "lesser sentence"
+    ],
+    "topics": [
+      "bnss"
+    ],
+    "question_te": "ప్లీ బార్గెనింగ్ అంటే ఏమిటి?",
+    "question_en": "What is plea bargaining?",
+    "answer_te": "BNSS 2023 సెక్షన్ 293-298: నిందితుడు నేరాన్ని అంగీకరిస్తే తక్కువ శిక్ష పొందవచ్చు. 7 సంవత్సరాల కంటే తక్కువ శిక్ష ఉన్న నేరాలకు మాత్రమే. స్వచ్ఛందంగా, అర్థం చేసుకుని చేయాలి. కోర్టు నిర్ణయించిన నష్టపరిహారం చెల్లించాలి.",
+    "answer_en": "BNSS 293-298: Reduced punishment if accused pleads guilty. Only for offenses <7 years. Must be voluntary.",
+    "citations": [
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 293",
+        "text": "Plea bargaining"
+      }
+    ]
+  },
+  {
+    "id": "bsa_evidence",
+    "keywords": [
+      "evidence",
+      "సాక్ష్యం",
+      "bsa 1",
+      "bsa 4",
+      "bsa 57",
+      "oral evidence",
+      "మౌఖిక సాక్ష్యం",
+      "documentary evidence"
+    ],
+    "topics": [
+      "bsa"
+    ],
+    "question_te": "కోర్టులో ఎలాంటి సాక్ష్యాలు అంగీకరించబడతాయి?",
+    "question_en": "What evidence is admissible?",
+    "answer_te": "BSA 2023: మౌఖిక సాక్ష్యం (సెక్షన్ 4) - సాక్షులు చెప్పే నివేదిక. డాక్యుమెంటరీ సాక్ష్యం (సెక్షన్ 57) - ఒరిజినల్ డాక్యుమెంట్లు, సర్టిఫైడ్ కాపీలు, ఎలక్ట్రానిక్ రికార్డులు. అంగీకరించనివి: హియర్-సే, చట్టవిరుద్ధంగా పొందిన సాక్ష్యం, న్యాయవాది-క్లయింట్ గోప్యత కలిగిన సమాచారం.",
+    "answer_en": "BSA 2023: Oral evidence (S.4), Documentary evidence (S.57) including electronic records. Inadmissible: hearsay, illegally obtained, privileged communications.",
+    "citations": [
+      {
+        "act": "Bharatiya Sakshya Adhiniyam 2023",
+        "section": "Section 4",
+        "text": "Oral evidence"
+      },
+      {
+        "act": "Bharatiya Sakshya Adhiniyam 2023",
+        "section": "Section 57",
+        "text": "Documentary evidence including electronic records"
+      }
+    ]
+  },
+  {
+    "id": "bsa_confession",
+    "keywords": [
+      "confession",
+      "కన్ఫెషన్",
+      "bsa 17",
+      "bsa 22",
+      "పోలీసు కస్టడీ",
+      "police confession",
+      "judicial confession"
+    ],
+    "topics": [
+      "bsa"
+    ],
+    "question_te": "పోలీసులకు చేసిన కన్ఫెషన్ కోర్టులో చెల్లుతుందా?",
+    "question_en": "Is confession to police admissible?",
+    "answer_te": "BSA 2023 సెక్షన్ 22: పోలీసు అధికారికి ఇచ్చిన కన్ఫెషన్ కోర్టులో సాక్ష్యంగా చెల్లదు (మరణ కేసులు మినహా). మేజిస్ట్రేట్ ముందు చేసిన కన్ఫెషన్ (సెక్షన్ 17) స్వచ్ఛందంగా ఉంటే చెల్లుతుంది. పోలీసులు కన్ఫెషన్ రాయించడానికి ప్రయత్నిస్తే అంగీకరించవద్దు.",
+    "answer_en": "BSA Section 22: Confession to police NOT admissible (except death cases). Judicial confession before Magistrate (S.17) valid if voluntary.",
+    "citations": [
+      {
+        "act": "Bharatiya Sakshya Adhiniyam 2023",
+        "section": "Section 22",
+        "text": "Confession to police not admissible"
+      },
+      {
+        "act": "Bharatiya Sakshya Adhiniyam 2023",
+        "section": "Section 17",
+        "text": "Confession defined"
+      }
+    ]
+  },
+  {
+    "id": "bsa_electronic",
+    "keywords": [
+      "electronic evidence",
+      "digital evidence",
+      "bsa 57",
+      "whatsapp",
+      "email",
+      "cctv",
+      "సైబర్ సాక్ష్యం",
+      "digital record"
+    ],
+    "topics": [
+      "bsa"
+    ],
+    "question_te": "వాట్సాప్ చాట్లు, ఇమెయిల్స్, CCTV సాక్ష్యంగా చెల్లుతాయా?",
+    "question_en": "Are WhatsApp, emails, CCTV admissible?",
+    "answer_te": "BSA 2023 సెక్షన్ 57 ప్రకారం ఎలక్ట్రానిక్ రికార్డులు సాక్ష్యంగా చెల్లుతాయి. వాట్సాప్ చాట్లు, ఇమెయిల్స్, CCTV ఫుటేజ్, సోషల్ మీడియా పోస్ట్లు అన్నీ అంగీకరించబడతాయి. షరతులు: సెక్షన్ 57(2) ప్రకారం సర్టిఫికేషన్ అవసరం, రికార్డు సమగ్రత నిరూపించాలి, ఒరిజినల్ డేటా ఉన్నట్లు నిరూపించాలి.",
+    "answer_en": "BSA Section 57: Electronic records admissible (WhatsApp, emails, CCTV, social media). Certification under Section 57(2) required, prove data integrity.",
+    "citations": [
+      {
+        "act": "Bharatiya Sakshya Adhiniyam 2023",
+        "section": "Section 57",
+        "text": "Electronic records admissibility"
+      },
+      {
+        "act": "Bharatiya Sakshya Adhiniyam 2023",
+        "section": "Section 57(5)",
+        "text": "Certificate for electronic evidence"
+      }
+    ]
+  },
+  {
+    "id": "consumer_complaint",
+    "keywords": [
+      "consumer",
+      "వినియోగదారుడు",
+      "consumer court",
+      "వినియోగదారుల కోర్టు",
+      "consumer protection",
+      "product defect",
+      "వస్తు లోపం",
+      "refund",
+      "రీఫండ్"
+    ],
+    "topics": [
+      "consumer"
+    ],
+    "question_te": "లోపభరితమైన వస్తువు కొన్నాను. కన్స్యూమర్ కోర్టులో ఫిర్యాదు ఎలా చేయాలి?",
+    "question_en": "How to file consumer complaint?",
+    "answer_te": "వినియోగదారుల రక్షణ చట్టం 2019: (1) విక్రేతకు లిఖిత ఫిర్యాదు చేయండి. (2) 30 రోజులలో స్పందించకపోతే జిల్లా వినియోగదారుల కోర్టు (₹1 కోటి వరకు). ₹10,000 కోర్టు రుసుము. (3) ఆన్‌లైన్: consumerhelpline.gov.in. హెల్ప్‌లైన్: 1800-11-4000. రాష్ట్ర కమిషన్ (₹1-10 కోట్లు), జాతీయ కమిషన్ (₹10 కోట్లు+).",
+    "answer_en": "Consumer Protection Act 2019: (1) Write to seller. (2) District Consumer Court (up to ₹1 crore) fee ₹10,000. (3) Online: consumerhelpline.gov.in. Helpline: 1800-11-4000.",
+    "citations": [
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "Section 35",
+        "text": "Filing complaints"
+      },
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "Section 47",
+        "text": "Consumer rights"
+      }
+    ]
+  },
+  {
+    "id": "consumer_online",
+    "keywords": [
+      "online shopping",
+      "ఆన్‌లైన్ షాపింగ్",
+      "ecommerce",
+      "flipkart",
+      "amazon",
+      "product return",
+      "return",
+      "replacement"
+    ],
+    "topics": [
+      "consumer"
+    ],
+    "question_te": "ఆన్‌లైన్ షాపింగ్ లో తప్పు వస్తువు వస్తే ఏమి చేయాలి?",
+    "question_en": "Wrong product from online shopping?",
+    "answer_te": "30 రోజులలోపు రిటర్న్ చేయండి. విక్రేత తప్పనిసరిగా రీఫండ్ లేదా రీప్లేస్‌మెంట్ ఇవ్వాలి. రీఫండ్ 14 రోజులలోపు రావాలి. ఈ-కామర్స్ ప్లాట్‌ఫాం తప్పనిసరిగా సరైన వివరాలు చూపించాలి, రిటర్న్ పాలసీ స్పష్టంగా ఉండాలి. సమస్య ఉంటే 1800-11-4000 లేదా consumerhelpline.gov.in.",
+    "answer_en": "Return within 30 days. Refund within 14 days. E-commerce must show accurate details. Helpline: 1800-11-4000.",
+    "citations": [
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "Section 41",
+        "text": "E-commerce liability"
+      }
+    ]
+  },
+  {
+    "id": "consumer_medical",
+    "keywords": [
+      "medical negligence",
+      "వైద్య నిర్లక్ష్యం",
+      "doctor negligence",
+      "డాక్టర్ నిర్లక్ష్యం",
+      "hospital",
+      "wrong treatment"
+    ],
+    "topics": [
+      "consumer"
+    ],
+    "question_te": "వైద్య నిర్లక్ష్యం వలన నష్టపరిహారం ఎలా పొందాలి?",
+    "question_en": "Compensation for medical negligence?",
+    "answer_te": "మూడు అంశాలు నిరూపించాలి: (1) డాక్టర్ కర్తవ్యాన్ని ఉల్లంఘించారు, (2) ఉల్లంఘన వలన నష్టం జరిగింది, (3) నష్టం మొత్తం. సాక్ష్యాలు: వైద్య నివేదికలు, ప్రిస్క్రిప్షన్లు, బిల్లులు. వినియోగదారుల కోర్టు లేదా సివిల్ కోర్టులో కేసు. నష్టపరిహారంలో వైద్య ఖర్చులు, కోల్పోయిన ఆదాయం, మానసిక వేదన ఉంటాయి.",
+    "answer_en": "Prove: (1) Doctor owed duty, (2) Duty breached, (3) Damage caused. File in consumer or civil court. Covers medical costs, lost income, mental anguish.",
+    "citations": [
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "Section 2(28)",
+        "text": "Medical negligence"
+      }
+    ]
+  },
+  {
+    "id": "consumer_warranty",
+    "keywords": [
+      "warranty",
+      "వారంటీ",
+      "guarantee",
+      "గ్యారంటీ",
+      "product warranty",
+      "manufacturing defect"
+    ],
+    "topics": [
+      "consumer"
+    ],
+    "question_te": "వారంటీ లోపు ప్రొడక్ట్ పాడైతే ఏమి చేయాలి?",
+    "question_en": "Product fails during warranty?",
+    "answer_te": "విక్రేత/సర్వీస్ సెంటర్ ను సంప్రదించండి. బిల్లు/ఇన్వాయిస్ మరియు వారంటీ కార్డ్ చూపించండి. మాన్యుఫాక్చరింగ్ లోపం ఉంటే కొత్త ప్రొడక్ట్ రీప్లేస్ చేయాలి. సహకరించకపోతే consumerhelpline.gov.in లో ఫిర్యాదు చేయండి లేదా 1800-11-4000 కు కాల్ చేయండి.",
+    "answer_en": "Contact seller with bill and warranty card. Manufacturing defect entitles free replacement. File at consumerhelpline.gov.in if no cooperation.",
+    "citations": [
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "Section 44",
+        "text": "Warranty obligations"
+      }
+    ]
+  },
+  {
+    "id": "consumer_services",
+    "keywords": [
+      "bank",
+      "బ్యాంకు",
+      "insurance",
+      "ఇన్సూరెన్స్",
+      "broadband",
+      "service deficiency",
+      "సేవా లోపం",
+      "electricity",
+      "water"
+    ],
+    "topics": [
+      "consumer"
+    ],
+    "question_te": "బ్యాంకు/ఇన్సూరెన్స్ సేవల్లో లోపం ఉంటే ఫిర్యాదు ఎలా చేయాలి?",
+    "question_en": "Complain about banking/insurance services?",
+    "answer_te": "బ్యాంకు: గ్రీవెన్స్ అధికారి → RBI బ్యాంకింగ్ ఆంబుడ్స్‌మెన్ (bbo.org.in) → కన్స్యూమర్ కోర్టు. ఇన్సూరెన్స్: IRDAI (igms.irdai.gov.in). టెలికాం: TRAI (trai.gov.in). 2 సంవత్సరాలలోపు ఫిర్యాదు చేయాలి.",
+    "answer_en": "Banks: Grievance officer → RBI Ombudsman → Consumer Court. Insurance: IRDAI. Telecom: TRAI. File within 2 years.",
+    "citations": [
+      {
+        "act": "Consumer Protection Act 2019",
+        "section": "Section 36",
+        "text": "Deficiency in service"
+      }
+    ]
+  },
+  {
+    "id": "rti_filing",
+    "keywords": [
+      "rti",
+      "సమాచార హక్కు",
+      "rti application",
+      "rti దరఖాస్తు",
+      "pio",
+      "rti act",
+      "rti fee"
+    ],
+    "topics": [
+      "rti"
+    ],
+    "question_te": "RTI దరఖాస్తు ఎలా దాఖలు చేయాలి?",
+    "question_en": "How to file RTI application?",
+    "answer_te": "PIO కు A4 కాగితంపై దరఖాస్తు చేయండి. ఆన్‌లైన్: rtiaonline.gov.in. ₹10 ఫీజు (BPL కార్డు ఉన్నవారికి ఉచితం). 30 రోజులలోపు సమాచారం ఇవ్వాలి (ప్రాణాపాయం ఉంటే 48 గంటలు). అప్పీల్: మొదటి అప్పీల్ 30 రోజులు, రెండవ అప్పీల్ 45 రోజులు.",
+    "answer_en": "File with PIO. ₹10 fee (free for BPL). Response in 30 days (48 hrs life-threatening). Online: rtiaonline.gov.in. Appeal within 30/45 days.",
+    "citations": [
+      {
+        "act": "Right to Information Act 2005",
+        "section": "Section 6",
+        "text": "Application for information"
+      },
+      {
+        "act": "Right to Information Act 2005",
+        "section": "Section 7",
+        "text": "Time limit"
+      }
+    ]
+  },
+  {
+    "id": "rti_exemptions",
+    "keywords": [
+      "rti exemption",
+      "rti refused",
+      "section 8",
+      "national security",
+      "confidential",
+      "rti నిరాకరణ"
+    ],
+    "topics": [
+      "rti"
+    ],
+    "question_te": "RTI కింద ఏ సమాచారం ఇవ్వడానికి నిరాకరించవచ్చు?",
+    "question_en": "What info can be refused under RTI?",
+    "answer_te": "సెక్షన్ 8: జాతీయ భద్రత, విదేశీ సంబంధాలు, ఆర్థిక ప్రయోజనాలు, కోర్టు గోప్యత, న్యాయ సహాయకుడి గోప్యత, వ్యక్తిగత గోప్యత, 20 సంవత్సరాల క్యాబినెట్ పేపర్లు, కాపీరైట్. సెక్షన్ 24: ఇంటెలిజెన్స్ ఏజెన్సీలు (IB, RAW, CBI) - అవినీతి మినహా. నిరాకరణను అప్పీల్ చేయవచ్చు.",
+    "answer_en": "Section 8: national security, foreign relations, personal privacy, cabinet papers (20+ yrs). Intelligence agencies exempt (S.24) except corruption.",
+    "citations": [
+      {
+        "act": "Right to Information Act 2005",
+        "section": "Section 8",
+        "text": "Exemptions"
+      },
+      {
+        "act": "Right to Information Act 2005",
+        "section": "Section 24",
+        "text": "Exempted organizations"
+      }
+    ]
+  },
+  {
+    "id": "rti_appeal",
+    "keywords": [
+      "rti appeal",
+      "rti అప్పీల్",
+      "first appeal",
+      "second appeal",
+      "cic",
+      "sic",
+      "సమాచార కమిషన్"
+    ],
+    "topics": [
+      "rti"
+    ],
+    "question_te": "RTI కు సమాధానం రాకపోతే అప్పీల్ ఎలా చేయాలి?",
+    "question_en": "How to appeal if RTI not answered?",
+    "answer_te": "RTI చట్టం రెండు స్థాయిల అప్పీల్: (1) మొదటి అప్పీల్ (సెక్షన్ 19(1)) - 30 రోజులలో సమాధానం రాకపోతే తదుపరి 30 రోజులలోపు First Appellate Authority కు. (2) రెండవ అప్పీల్ (సెక్షన్ 19(3)) - CIC/SIC కు 90 రోజులలోపు. CIC/SIC నిర్ణయం తుదిది, హైకోర్టు/సుప్రీం కోర్టులో మాత్రమే సవాల్.",
+    "answer_en": "First appeal within 30 days to First Appellate Authority. Second appeal to CIC/SIC within 90 days. CIC/SIC decision final.",
+    "citations": [
+      {
+        "act": "Right to Information Act 2005",
+        "section": "Section 19",
+        "text": "Appeals"
+      }
+    ]
+  },
+  {
+    "id": "labour_salary",
+    "keywords": [
+      "salary",
+      "జీతం",
+      "wages",
+      "వేతనాలు",
+      "unpaid salary",
+      "జీతం రావడం లేదు",
+      "minimum wage",
+      "payment of wages"
+    ],
+    "topics": [
+      "labour"
+    ],
+    "question_te": "కంపెనీ జీతం ఇవ్వకపోతే ఏమి చేయాలి?",
+    "question_en": "Company not paying salary?",
+    "answer_te": "(1) HR/మేనేజ్‌మెంట్ కు లిఖిత ఫిర్యాదు. (2) లేబర్ డిపార్ట్‌మెంట్ హెల్ప్‌లైన్ 19647. (3) Payment of Wages Act 1936 ప్రకారం లేబర్ కమిషనర్ ను ఆశ్రయించండి. (4) లీగల్ నోటీసు పంపించండి. (5) సివిల్ కోర్టులో నష్టపరిహారం కోసం కేసు దాఖలు చేయండి. కనీస వేతనం కంటే తక్కువ ఇచ్చినా చట్టవిరుద్ధం.",
+    "answer_en": "(1) Written complaint to HR. (2) Labour Dept helpline 19647. (3) Labour Commissioner under Payment of Wages Act. (4) Legal notice. Below minimum wage is illegal.",
+    "citations": [
+      {
+        "act": "Payment of Wages Act 1936",
+        "section": "Section 4",
+        "text": "Wage periods"
+      },
+      {
+        "act": "Minimum Wages Act 1948",
+        "section": "Section 3",
+        "text": "Minimum wages"
+      }
+    ]
+  },
+  {
+    "id": "labour_pf_esi",
+    "keywords": [
+      "pf",
+      "పిఎఫ్",
+      "provident fund",
+      "epf",
+      "esi",
+      "ఈఎస్ఐ",
+      "pension",
+      "పెన్షన్",
+      "gratuity",
+      "గ్రాట్యుటీ"
+    ],
+    "topics": [
+      "labour"
+    ],
+    "question_te": "PF మరియు ESI ఎలా లెక్కించబడతాయి?",
+    "question_en": "How are PF and ESI calculated?",
+    "answer_te": "EPF: ఉద్యోగి మరియు యజమాని ఇద్దరూ 12% చొప్పున. యజమాని వాటాలో 8.33% EPS పెన్షన్ ఖాతాకు. ESI: ₹21,000 కంటే తక్కువ జీతం ఉన్నవారికి, ఉద్యోగి 0.75% + యజమాని 3.25%. గ్రాట్యుటీ: 5 సంవత్సరాల తర్వాత, ఫార్ములా: లాస్ట్ సెలరీ × 15/26 × సర్వీస్ సంవత్సరాలు.",
+    "answer_en": "EPF: 12% each from employee/employer. 8.33% of employer share to EPS pension. ESI: ≤₹21,000 salary, 0.75% + 3.25%. Gratuity after 5 years.",
+    "citations": [
+      {
+        "act": "Employees PF Act 1952",
+        "section": "Section 6",
+        "text": "PF contributions"
+      },
+      {
+        "act": "Payment of Gratuity Act 1972",
+        "section": "Section 4",
+        "text": "Gratuity"
+      }
+    ]
+  },
+  {
+    "id": "labour_termination",
+    "keywords": [
+      "termination",
+      "టెర్మినేషన్",
+      "retrenchment",
+      "retrenchment",
+      "layoff",
+      "లేఆఫ్",
+      "unfair dismissal",
+      "notice period"
+    ],
+    "topics": [
+      "labour"
+    ],
+    "question_te": "నోటీసు లేకుండా ఉద్యోగం నుండి తొలగించవచ్చా?",
+    "question_en": "Can I be terminated without notice?",
+    "answer_te": "ఉద్యోగ ఒప్పందంలో నోటీసు పీరియడ్ తప్పనిసరి. తీవ్రమైన మిస్‌కండక్ట్ లేకుండా నోటీసు లేదా సెవరెన్స్ పే ఇవ్వాలి. 1 సంవత్సరం సర్వీస్ తర్వాత రీట్రెంచ్‌మెంట్ కు 1 నెల నోటీసు + 15 రోజుల జీతం × సర్వీస్ సంవత్సరాలు కాంపెన్సేషన్ తప్పనిసరి. అన్యాయమైన తొలగింపును లేబర్ కోర్టులో 42 రోజులలోపు సవాల్ చేయండి.",
+    "answer_en": "Notice period in contract is mandatory. Retrenchment after 1 year: 1 month notice + 15 days salary/year. Challenge unfair dismissal in Labour Court within 42 days.",
+    "citations": [
+      {
+        "act": "Industrial Disputes Act 1947",
+        "section": "Section 25F",
+        "text": "Retrenchment conditions"
+      }
+    ]
+  },
+  {
+    "id": "labour_working_hours",
+    "keywords": [
+      "working hours",
+      "పని గంటలు",
+      "overtime",
+      "ఓవర్ టైమ్",
+      "leave",
+      "సెలవు",
+      "maternity leave",
+      "మెటర్నిటీ లీవ్"
+    ],
+    "topics": [
+      "labour"
+    ],
+    "question_te": "పని గంటలు, ఓవర్‌టైమ్, సెలవు హక్కులు ఏమిటి?",
+    "question_en": "Working hours, overtime, leave rights?",
+    "answer_te": "రోజుకు 9 గంటలు, వారానికి 48 గంటలు మించకూడదు. ఓవర్‌టైమ్ కు రెట్టింపు జీతం. వారి సెలవు తప్పనిసరి. సంవత్సరానికి 15 సిక్ లీవ్, 15 క్యాజువల్ లీవ్, 15-30 ఎల్. మహిళలకు 26 వారాల మెటర్నిటీ లీవ్ (Maternity Benefit Act 1961). 3 జాతీయ సెలవులు: గణతంత్ర దినోత్సవం, స్వాతంత్ర్య దినోత్సవం, గాంధీ జయంతి.",
+    "answer_en": "Max 9 hrs/day, 48 hrs/week. Overtime at double wage. Weekly holiday mandatory. 15 sick + 15 casual + 15-30 earned leave. 26 weeks maternity leave.",
+    "citations": [
+      {
+        "act": "Factories Act 1948",
+        "section": "Section 51-56",
+        "text": "Working hours"
+      },
+      {
+        "act": "Maternity Benefit Act 1961",
+        "section": "Section 5",
+        "text": "Maternity leave"
+      }
+    ]
+  },
+  {
+    "id": "labour_dispute",
+    "keywords": [
+      "labour court",
+      "లేబర్ కోర్టు",
+      "industrial tribunal",
+      "trade union",
+      "strike",
+      "సమ్మె",
+      "lockout"
+    ],
+    "topics": [
+      "labour"
+    ],
+    "question_te": "లేబర్ కోర్టులో ఫిర్యాదు ఎలా చేయాలి?",
+    "question_en": "How to file in Labour Court?",
+    "answer_te": "(1) కంపెనీ గ్రీవెన్స్ మెకానిజం ఉపయోగించండి. (2) లేబర్ కమిషనర్ ముందు రాజీ ప్రయత్నించండి. (3) లేబర్ కోర్టు/ట్రిబ్యునల్ కు వెళ్ళండి. అన్యాయమైన తొలగింపుకు 42 రోజులలోపు ఫిర్యాదు. సమ్మెకు 14 రోజుల ముందు నోటీసు తప్పనిసరి.",
+    "answer_en": "(1) Company grievance. (2) Labour Commissioner conciliation. (3) Labour Court/Tribunal. 42 days for unfair dismissal. 14 days strike notice.",
+    "citations": [
+      {
+        "act": "Industrial Disputes Act 1947",
+        "section": "Section 10",
+        "text": "Reference of disputes"
+      },
+      {
+        "act": "Industrial Disputes Act 1947",
+        "section": "Section 22",
+        "text": "Strike notice"
+      }
+    ]
+  },
+  {
+    "id": "motor_accident",
+    "keywords": [
+      "accident",
+      "యాక్సిడెంట్",
+      "road accident",
+      "రోడ్డు ప్రమాదం",
+      "mv act",
+      "insurance claim",
+      "MACT",
+      "compensation"
+    ],
+    "topics": [
+      "motor"
+    ],
+    "question_te": "రోడ్డు ప్రమాదంలో నష్టపరిహారం ఎలా పొందాలి?",
+    "question_en": "How to get road accident compensation?",
+    "answer_te": "వెంటనే: పోలీసులకు సమాచారం ఇవ్వండి, వైద్య పరీక్ష చేయించుకోండి, ఫోటోలు తీయండి, సాక్షుల వివరాలు సేకరించండి, వాహనం నంబర్ నోట్ చేసుకోండి. MACT కు 6 నెలలలోపు క్లెయిమ్ (తీవ్రమైన గాయాలకు 2 సంవత్సరాలు). సెక్షన్ 163A: డ్రైవర్ తెలియకపోయినా క్లెయిమ్ చేయవచ్చు.",
+    "answer_en": "Immediate: inform police, get medical exam, take photos, collect witness details. Claim before MACT within 6 months (2 yrs serious injury). Section 163A: claim even if driver unknown.",
+    "citations": [
+      {
+        "act": "Motor Vehicles Act 1988",
+        "section": "Section 166",
+        "text": "Compensation application"
+      },
+      {
+        "act": "Motor Vehicles Act 1988",
+        "section": "Section 163A",
+        "text": "Special compensation provisions"
+      }
+    ]
+  },
+  {
+    "id": "motor_insurance",
+    "keywords": [
+      "vehicle insurance",
+      "వెహికల్ ఇన్సూరెన్స్",
+      "third party insurance",
+      "comprehensive",
+      "driving without insurance"
+    ],
+    "topics": [
+      "motor"
+    ],
+    "question_te": "వాహనం ఇన్సూరెన్స్ తప్పనిసరా?",
+    "question_en": "Is vehicle insurance mandatory?",
+    "answer_te": "సెక్షన్ 146: తృతీయ పక్షం ఇన్సూరెన్స్ తప్పనిసరి. లేకుండా డ్రైవింగ్ కు ₹2,000 జరిమానా + 3 నెలల జైలు (మొదటిసారి), రెండవసారి ₹4,000 + 6 నెలలు. ఇన్సూరెన్స్ రకాలు: తృతీయ పక్షం, కాంప్రిహెన్సివ్, జీరో డిప్రిషియేషన్. 90 రోజులలోపు రెన్యూవల్ చేస్తే నో-క్లెయిమ్ బోనస్ కోల్పోరు.",
+    "answer_en": "Section 146: Third-party insurance mandatory. Penalty: ₹2,000 + 3 months (first). Renew within 90 days to keep No-Claim Bonus.",
+    "citations": [
+      {
+        "act": "Motor Vehicles Act 1988",
+        "section": "Section 146",
+        "text": "Insurance mandatory"
+      },
+      {
+        "act": "Motor Vehicles Act 1988",
+        "section": "Section 196",
+        "text": "Penalty for no insurance"
+      }
+    ]
+  },
+  {
+    "id": "motor_traffic",
+    "keywords": [
+      "traffic challan",
+      "ట్రాఫిక్ చలాన్",
+      "speeding",
+      "drunk driving",
+      "helmet",
+      "seat belt",
+      "dangerous driving"
+    ],
+    "topics": [
+      "motor"
+    ],
+    "question_te": "ట్రాఫిక్ ఉల్లంఘనలకు జరిమానాలు ఏమిటి?",
+    "question_en": "Traffic violation penalties?",
+    "answer_te": "సీట్ బెల్ట్ లేకపోతే ₹1,000, హెల్మెట్ లేకుండా ₹1,000 + లైసెన్స్ సస్పెన్షన్, స్పీడింగ్ ₹1,000-2,000, మద్యం తాగి డ్రైవింగ్ ₹10,000 + 6 నెలల జైలు, రెడ్ లైట్ ₹500-1,000, డేంజరస్ డ్రైవింగ్ ₹5,000 + 1 సంవత్సరం, ఫోన్ మాట్లాడుతూ ₹5,000.",
+    "answer_en": "No seatbelt ₹1,000, no helmet ₹1,000 + license suspension, speeding ₹1,000-2,000, drunk driving ₹10,000 + 6 months, dangerous driving ₹5,000 + 1 year.",
+    "citations": [
+      {
+        "act": "Motor Vehicles Act 1988",
+        "section": "Section 177",
+        "text": "General penalties"
+      }
+    ]
+  },
+  {
+    "id": "motor_hit_run",
+    "keywords": [
+      "hit and run",
+      "hit & run",
+      "bns 104",
+      "hit run case"
+    ],
+    "topics": [
+      "motor",
+      "bns"
+    ],
+    "question_te": "హిట్ అండ్ రన్ కేసు అంటే ఏమిటి?",
+    "question_en": "What is hit and run case?",
+    "answer_te": "BNS 2023 సెక్షన్ 104(1) ప్రకారం ప్రమాదం తర్వాత సహాయం చేయకుండా వెళ్ళిపోవడం నేరం. 5 సంవత్సరాల వరకు జైలు + జరిమానా. BNSS సెక్షన్ 178 ప్రకారం ప్రమాదంలో గాయపడినవారికి సహాయం చేయడం తప్పనిసరి.",
+    "answer_en": "BNS Section 104(1): fleeing accident scene. Up to 5 years + fine. Mandatory to help injured persons (BNSS S.178).",
+    "citations": [
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 104",
+        "text": "Causing death by negligence"
+      }
+    ]
+  },
+  {
+    "id": "property_registration",
+    "keywords": [
+      "property",
+      "ఆస్తి",
+      "registration",
+      "రిజిస్ట్రేషన్",
+      "sale deed",
+      "సేల్ డీడ్",
+      "stamp duty",
+      "స్టాంప్ డ్యూటీ",
+      "registry"
+    ],
+    "topics": [
+      "property"
+    ],
+    "question_te": "ఆస్తి రిజిస్ట్రేషన్ ఎలా చేయాలి?",
+    "question_en": "How to register property?",
+    "answer_te": "ఆస్తి కొనుగోలు తర్వాత 4 నెలలలోపు రిజిస్ట్రేషన్ తప్పనిసరి. స్టాంప్ డ్యూటీ రాష్ట్రాన్ని బట్టి 5-8% (పురుషులు) / 4-7% (మహిళలు). రిజిస్ట్రేషన్ ఫీజు ~1%. సబ్-రిజిస్ట్రార్ కార్యాలయంలో విక్రేత మరియు కొనుగోలుదారు ఇద్దరూ హాజరు కావాలి. సాక్ష్యంగా ఇద్దరు సాక్షులు తప్పనిసరి.",
+    "answer_en": "Registration mandatory within 4 months. Stamp duty 5-8% (men) 4-7% (women). Registration fee ~1%. Both buyer and seller must appear before Sub-Registrar.",
+    "citations": [
+      {
+        "act": "Registration Act 1908",
+        "section": "Section 17",
+        "text": "Compulsory registration"
+      },
+      {
+        "act": "Stamp Act 1899",
+        "section": "Section 3",
+        "text": "Stamp duty"
+      }
+    ]
+  },
+  {
+    "id": "property_mutation",
+    "keywords": [
+      "mutation",
+      "మ్యుటేషన్",
+      "property tax",
+      "ఆస్తి పన్ను",
+      "land record",
+      "pattadar",
+      "పట్టాదారు"
+    ],
+    "topics": [
+      "property"
+    ],
+    "question_te": "మ్యుటేషన్ అంటే ఏమిటి? ఆస్తి పేరు మార్చుకోవడం ఎలా?",
+    "question_en": "What is mutation? How to change property name?",
+    "answer_te": "మ్యుటేషన్ అంటే రెవెన్యూ రికార్డులలో పేరు మార్పు. తహసీల్దార్ కార్యాలయంలో దరఖాస్తు చేయాలి. సేల్ డీడ్, పాత పట్టా, ప్రస్తుత పట్టా, ఆధార్ కార్డులు అవసరం. సాధారణంగా 30-60 రోజులు పడుతుంది.",
+    "answer_en": "Mutation changes name in revenue records. Apply at Tehsildar with sale deed, patta, Aadhaar. Takes 30-60 days.",
+    "citations": [
+      {
+        "act": "Registration Act 1908",
+        "section": "Section 89",
+        "text": "Mutation procedure"
+      }
+    ]
+  },
+  {
+    "id": "property_partition",
+    "keywords": [
+      "ancestral property",
+      "పూర్వీకుల ఆస్తి",
+      "partition",
+      "భాగస్వామ్యం",
+      "hindu succession",
+      "inheritance",
+      "వారసత్వం"
+    ],
+    "topics": [
+      "property"
+    ],
+    "question_te": "పూర్వీకుల ఆస్తిలో వాటా ఎలా పొందాలి?",
+    "question_en": "Share in ancestral property?",
+    "answer_te": "హిందూ వారసత్వ చట్టం 1956 ప్రకారం కొడుకులు మరియు కూతుళ్ళకు సమాన హక్కు. 2005 సవరణ కూతుళ్ళకు సమాన హక్కు ఇచ్చింది. పూర్వీకుల ఆస్తిలో పుట్టుకతోనే హక్కు. స్వంత ఆస్తి విల్ ద్వారా ఇష్టం వచ్చినట్లు ఇవ్వవచ్చు.",
+    "answer_en": "Hindu Succession Act 1956: equal share for sons/daughters. 2005 amendment gave daughters equal coparcenary rights. Self-acquired property can be willed freely.",
+    "citations": [
+      {
+        "act": "Hindu Succession Act 1956",
+        "section": "Section 6",
+        "text": "Coparcenary rights"
+      }
+    ]
+  },
+  {
+    "id": "property_rental",
+    "keywords": [
+      "rent",
+      "అద్దె",
+      "lease",
+      "లీజు",
+      "rental agreement",
+      "అద్దె ఒప్పందం",
+      "tenant",
+      "అద్దెదారు",
+      "landlord"
+    ],
+    "topics": [
+      "property"
+    ],
+    "question_te": "అద్దె ఒప్పందంలో ముఖ్యమైన నిబంధనలు ఏమిటి?",
+    "question_en": "Important rental agreement terms?",
+    "answer_te": "అద్దె ఒప్పందంలో తప్పనిసరిగా ఉండాల్సినవి: నెలసరి అద్దె, సెక్యూరిటీ డిపాజిట్ (2-3 నెలల అద్దె), నోటీసు పీరియడ్ (1-3 నెలలు), అద్దె పెంపుదల శాతం (10-15%/సంవత్సరం), మెయింటెనెన్స్ బాధ్యతలు. ₹100 స్టాంప్ పేపర్ పై ఒప్పందం రాయించండి. రెవెన్యూ స్టాంప్ తప్పనిసరి.",
+    "answer_en": "Must include: rent amount, security deposit (2-3 months), notice period (1-3 months), rent increase (10-15%/year), maintenance responsibilities. Use ₹100 stamp paper.",
+    "citations": [
+      {
+        "act": "Transfer of Property Act 1882",
+        "section": "Section 105",
+        "text": "Lease defined"
+      },
+      {
+        "act": "Rental Control Act",
+        "section": "Section 6",
+        "text": "Rent increase"
+      }
+    ]
+  },
+  {
+    "id": "family_marriage",
+    "keywords": [
+      "marriage registration",
+      "వివాహం",
+      "వివాహ నమోదు",
+      "court marriage",
+      "special marriage act",
+      "hindu marriage"
+    ],
+    "topics": [
+      "family"
+    ],
+    "question_te": "వివాహ నమోదు ఎలా చేయాలి?",
+    "question_en": "How to register marriage?",
+    "answer_te": "హిందూ వివాహ చట్టం 1955 లేదా స్పెషల్ మ్యారేజ్ యాక్ట్ 1954 ప్రకారం నమోదు చేసుకోవచ్చు. మ్యారేజ్ రిజిస్ట్రార్ ముందు ఇద్దరు సాక్షులతో హాజరు కావాలి. ప్రూఫ్: పుట్టిన తేదీ, చిరునామా, ఫోటోలు. కోర్టు మ్యారేజ్ కు 30 రోజుల నోటీసు తర్వాత నమోదు.",
+    "answer_en": "Register under Hindu Marriage Act 1955 or Special Marriage Act 1954. Appear before Registrar with 2 witnesses, age/address proof, photos. 30 days notice for court marriage.",
+    "citations": [
+      {
+        "act": "Hindu Marriage Act 1955",
+        "section": "Section 8",
+        "text": "Marriage registration"
+      },
+      {
+        "act": "Special Marriage Act 1954",
+        "section": "Section 13",
+        "text": "Registration procedure"
+      }
+    ]
+  },
+  {
+    "id": "family_divorce",
+    "keywords": [
+      "divorce",
+      "విడాకులు",
+      "mutual divorce",
+      "పరస్పర విడాకులు",
+      "contested divorce",
+      "family court"
+    ],
+    "topics": [
+      "family"
+    ],
+    "question_te": "విడాకులు ఎలా పొందాలి?",
+    "question_en": "How to get divorce?",
+    "answer_te": "మ్యుచువల్ డైవోర్స్: ఇద్దరూ అంగీకరిస్తే 18 నెలల సెపరేషన్ తర్వాత కోర్టు మంజూరు చేస్తుంది. కాంటెస్టెడ్ డైవోర్స్: నిర్దయ, వ్యభిచారం, క్రూరత్వం, మత మార్పిడి, వైద్యపరమైన కారణాలు, విడిచిపెట్టడం (2 సంవత్సరాలు). కుటుంబ న్యాయస్థానంలో దరఖాస్తు చేయాలి. 2-5 సంవత్సరాలు పట్టవచ్చు.",
+    "answer_en": "Mutual divorce: both agree, 18 months separation. Contested: cruelty, adultery, desertion (2 yrs), religious conversion. File in Family Court. Takes 2-5 years.",
+    "citations": [
+      {
+        "act": "Hindu Marriage Act 1955",
+        "section": "Section 13",
+        "text": "Grounds for divorce"
+      },
+      {
+        "act": "Hindu Marriage Act 1955",
+        "section": "Section 13B",
+        "text": "Mutual consent divorce"
+      }
+    ]
+  },
+  {
+    "id": "family_maintenance",
+    "keywords": [
+      "maintenance",
+      "మెయింటెనెన్స్",
+      "alimony",
+      "అలిమనీ",
+      "wife maintenance",
+      "bnss 144",
+      "child support"
+    ],
+    "topics": [
+      "family"
+    ],
+    "question_te": "మెయింటెనెన్స్/అలిమనీ ఎలా పొందాలి?",
+    "question_en": "How to get maintenance/alimony?",
+    "answer_te": "BNSS 2023 సెక్షన్ 144 ప్రకారం భార్య/భర్త మరియు పిల్లలకు మెయింటెనెన్స్ పొందవచ్చు. భర్త భార్యకు ఇవ్వాల్సిన మొత్తం ఆదాయం బట్టి నిర్ణయించబడుతుంది. విడాకుల తర్వాత అలిమనీ శాశ్వత మెయింటెనెన్స్. భార్యకు తిరిగి వివాహం అయ్యే వరకు మెయింటెనెన్స్ హక్కు ఉంటుంది.",
+    "answer_en": "BNSS Section 144: spouse and children can claim maintenance. Amount based on income. Alimony is permanent maintenance. Wife entitled till remarriage.",
+    "citations": [
+      {
+        "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+        "section": "Section 144",
+        "text": "Maintenance"
+      },
+      {
+        "act": "Hindu Marriage Act 1955",
+        "section": "Section 25",
+        "text": "Permanent alimony"
+      }
+    ]
+  },
+  {
+    "id": "family_custody",
+    "keywords": [
+      "custody",
+      "కస్టడీ",
+      "child custody",
+      "పిల్లల కస్టడీ",
+      "visitation rights",
+      "guardianship"
+    ],
+    "topics": [
+      "family"
+    ],
+    "question_te": "పిల్లల కస్టడీ ఎలా నిర్ణయించబడుతుంది?",
+    "question_en": "How is child custody decided?",
+    "answer_te": "పిల్లల కస్టడీ పిల్లల సంక్షేమాన్ని దృష్టిలో ఉంచుకుని కోర్టు నిర్ణయిస్తుంది. 5 సంవత్సరాల కంటే తక్కువ వయస్సు ఉన్న పిల్లల కస్టడీ సాధారణంగా తల్లికి ఇవ్వబడుతుంది. విజిటేషన్ రైట్స్ (చూడటానికి హక్కు) కూడా మంజూరు చేయబడతాయి.",
+    "answer_en": "Child custody based on child welfare. Under 5 year old usually given to mother. Visitation rights also granted.",
+    "citations": [
+      {
+        "act": "Guardians and Wards Act 1890",
+        "section": "Section 7",
+        "text": "Guardianship"
+      },
+      {
+        "act": "Hindu Minority Act 1956",
+        "section": "Section 6",
+        "text": "Natural guardians"
+      }
+    ]
+  },
+  {
+    "id": "family_dowry",
+    "keywords": [
+      "dowry",
+      "కట్నం",
+      "dowry prohibition",
+      "dowry death",
+      "bns 80",
+      "దాఖలు",
+      "dowry harassment"
+    ],
+    "topics": [
+      "family"
+    ],
+    "question_te": "కట్నం ఇవ్వడం/తీసుకోవడం నేరమా?",
+    "question_en": "Is dowry illegal?",
+    "answer_te": "కట్నం నిషేధ చట్టం 1961 ప్రకారం కట్నం ఇవ్వడం, తీసుకోవడం, అడగడం నేరం. 5 సంవత్సరాల జైలు + ₹15,000 జరిమానా. BNS సెక్షన్ 80: కట్నం మరణంపై 7 సంవత్సరాల నుండి జీవిత ఖైదు. స్త్రీకి సురక్షిత గృహంలో ఆశ్రయం పొందే హక్కు ఉంది.",
+    "answer_en": "Dowry Prohibition Act 1961: giving/taking/demanding dowry illegal. 5 years + ₹15,000 fine. BNS S.80: dowry death 7 years to life.",
+    "citations": [
+      {
+        "act": "Dowry Prohibition Act 1961",
+        "section": "Section 3",
+        "text": "Penalty for dowry"
+      },
+      {
+        "act": "Bharatiya Nyaya Sanhita 2023",
+        "section": "Section 80",
+        "text": "Dowry death"
+      }
+    ]
+  },
+  {
+    "id": "family_domestic_violence",
+    "keywords": [
+      "domestic violence",
+      "గృహ హింస",
+      "dv act",
+      "protection order",
+      "women helpline 181",
+      "కుటుంబ హింస"
+    ],
+    "topics": [
+      "family"
+    ],
+    "question_te": "గృహ హింస నుండి రక్షణ ఎలా పొందాలి?",
+    "question_en": "How to get protection from domestic violence?",
+    "answer_te": "గృహ హింస నుండి మహిళల రక్షణ చట్టం 2005: మేజిస్ట్రేట్ ముందు దరఖాస్తు చేసి ప్రొటెక్షన్ ఆర్డర్ పొందవచ్చు. వైద్య పరీక్ష చేయించుకోండి. సాక్ష్యాలు సేకరించండి. హెల్ప్‌లైన్ 181 (మహిళా హెల్ప్‌లైన్). సురక్షిత గృహాలు అందుబాటులో ఉన్నాయి.",
+    "answer_en": "Protection of Women from Domestic Violence Act 2005: get protection order from Magistrate. Medical exam, collect evidence. Helpline 181. Safe shelter homes available.",
+    "citations": [
+      {
+        "act": "Protection of Women from Domestic Violence Act 2005",
+        "section": "Section 12",
+        "text": "Application to Magistrate"
+      },
+      {
+        "act": "Protection of Women from Domestic Violence Act 2005",
+        "section": "Section 18",
+        "text": "Protection orders"
+      }
+    ]
+  },
+  {
+    "id": "cyber_fraud",
+    "keywords": [
+      "cyber crime",
+      "సైబర్ నేరం",
+      "cyber fraud",
+      "సైబర్ ఫ్రాడ్",
+      "online fraud",
+      "it act",
+      "phishing"
+    ],
+    "topics": [
+      "cyber"
+    ],
+    "question_te": "సైబర్ ఫ్రాడ్ జరిగితే ఎక్కడ ఫిర్యాదు చేయాలి?",
+    "question_en": "Where to report cyber fraud?",
+    "answer_te": "సైబర్ నేరం కోసం: (1) cybercrime.gov.in లో ఆన్‌లైన్ ఫిర్యాదు, (2) హెల్ప్‌లైన్ 1930, (3) స్థానిక పోలీస్ స్టేషన్ లో FIR. IT చట్టం 2000 సెక్షన్ 66: సైబర్ ఫ్రాడ్ 3 సంవత్సరాల వరకు + జరిమానా. సాక్ష్యాలను భద్రపరచుకోండి: స్క్రీన్‌షాట్లు, ఇమెయిల్స్, లావాదేవీ వివరాలు.",
+    "answer_en": "Report at cybercrime.gov.in, call 1930, or file FIR. IT Act Section 66: up to 3 years + fine. Preserve screenshots, emails, transaction details.",
+    "citations": [
+      {
+        "act": "Information Technology Act 2000",
+        "section": "Section 66",
+        "text": "Computer offenses"
+      },
+      {
+        "act": "Information Technology Act 2000",
+        "section": "Section 43",
+        "text": "Unauthorized access"
+      }
+    ]
+  },
+  {
+    "id": "cyber_harassment",
+    "keywords": [
+      "social media",
+      "సోషల్ మీడియా",
+      "cyber harassment",
+      "సైబర్ వేధింపు",
+      "online bullying",
+      "stalking",
+      "trolling"
+    ],
+    "topics": [
+      "cyber"
+    ],
+    "question_te": "సోషల్ మీడియాలో వేధింపు ఉంటే ఏమి చేయాలి?",
+    "question_en": "Social media harassment? What to do?",
+    "answer_te": "స్క్రీన్‌షాట్లు తీయండి, యూజర్ ను బ్లాక్/రిపోర్ట్ చేయండి. cybercrime.gov.in లో ఫిర్యాదు చేయండి. IT చట్టం సెక్షన్ 66E (గోప్యత ఉల్లంఘన), 66C (ఐడెంటిటీ థెఫ్ట్). BNS సెక్షన్ 356 (మాననష్టం) కూడా వర్తిస్తుంది. హెల్ప్‌లైన్ 1930.",
+    "answer_en": "Take screenshots, block/report user. File at cybercrime.gov.in or call 1930. IT Act 66E (privacy), 66C (identity theft), BNS Section 356 (defamation).",
+    "citations": [
+      {
+        "act": "Information Technology Act 2000",
+        "section": "Section 66E",
+        "text": "Privacy violation"
+      },
+      {
+        "act": "Information Technology Act 2000",
+        "section": "Section 66C",
+        "text": "Identity theft"
+      }
+    ]
+  },
+  {
+    "id": "cyber_banking",
+    "keywords": [
+      "banking fraud",
+      "బ్యాంకింగ్ ఫ్రాడ్",
+      "card fraud",
+      "otp fraud",
+      "upi fraud",
+      "debit card",
+      "credit card"
+    ],
+    "topics": [
+      "cyber"
+    ],
+    "question_te": "బ్యాంకు ఖాతా నుండి మోసపూరితంగా డబ్బు డ్రా అయితే?",
+    "question_en": "Fraudulent debit from bank account?",
+    "answer_te": "వెంటనే బ్యాంకుకు కాల్ చేసి కార్డ్/యాక్సెస్ బ్లాక్ చేయండి. 1930 (సైబర్ క్రైమ్ హెల్ప్‌లైన్) కు కాల్ చేయండి. బ్యాంకుకు లిఖిత ఫిర్యాదు. RBI బ్యాంకింగ్ ఆంబుడ్స్‌మెన్ ను సంప్రదించండి. 3 రోజులలోపు బ్యాంకుకు తెలియజేస్తే పూర్తి రీఫండ్ పొందవచ్చు (RBI జీరో లయబిలిటీ నిబంధన).",
+    "answer_en": "Immediately block card. Call 1930. File written complaint with bank. Contact RBI Ombudsman. Zero liability if reported within 3 days.",
+    "citations": [
+      {
+        "act": "Information Technology Act 2000",
+        "section": "Section 43A",
+        "text": "Data protection"
+      },
+      {
+        "act": "RBI Circular",
+        "section": "Zero Liability",
+        "text": "Customer protection"
+      }
+    ]
+  },
+  {
+    "id": "cyber_identity",
+    "keywords": [
+      "identity theft",
+      "ఐడెంటిటీ థెఫ్ట్",
+      "aadhaar fraud",
+      "ఆధార్ ఫ్రాడ్",
+      "fake account",
+      "impersonation"
+    ],
+    "topics": [
+      "cyber"
+    ],
+    "question_te": "ఆధార్ మోసపూరితంగా ఉపయోగించబడితే?",
+    "question_en": "Aadhaar used fraudulently?",
+    "answer_te": "ఆధార్ ను ఉచితంగా లాక్ చేయండి (resident.uidai.gov.in). cybercrime.gov.in లో ఫిర్యాదు. IT చట్టం సెక్షన్ 66C: ఐడెంటిటీ థెఫ్ట్ 3 సంవత్సరాలు + ₹1 లక్ష జరిమానా. ఆధార్ ను ఎవరికీ షేర్ చేయవద్దు.",
+    "answer_en": "Lock Aadhaar at resident.uidai.gov.in. File at cybercrime.gov.in. IT Act Section 66C: 3 years + ₹1 lakh fine.",
+    "citations": [
+      {
+        "act": "Information Technology Act 2000",
+        "section": "Section 66C",
+        "text": "Identity theft"
+      },
+      {
+        "act": "Aadhaar Act 2016",
+        "section": "Section 29",
+        "text": "Confidentiality"
+      }
+    ]
+  },
+  {
+    "id": "ni_act_cheque",
+    "keywords": [
+      "cheque",
+      "చెక్",
+      "cheque bounce",
+      "చెక్ బౌన్స్",
+      "ni act 138",
+      "section 138",
+      "bounced cheque"
+    ],
+    "topics": [
+      "ni"
+    ],
+    "question_te": "చెక్ బౌన్స్ అయితే ఏమి చేయాలి?",
+    "question_en": "Cheque bounced? What to do?",
+    "answer_te": "(1) బ్యాంకు నుండి చెక్ బౌన్స్ మెమో తీసుకోండి. (2) 30 రోజులలోపు లీగల్ నోటీసు పంపించండి. (3) నోటీసు అందిన 15 రోజులలోపు చెల్లించకపోతే 30 రోజులలోపు కోర్టులో కేసు దాఖలు చేయండి. NI Act సెక్షన్ 138: 2 సంవత్సరాల జైలు + చెక్ మొత్తానికి రెట్టింపు జరిమానా.",
+    "answer_en": "(1) Get bank memo. (2) Legal notice within 30 days. (3) Court case within 30 days if not paid in 15 days. NI Act Section 138: 2 years + double amount fine.",
+    "citations": [
+      {
+        "act": "Negotiable Instruments Act 1881",
+        "section": "Section 138",
+        "text": "Cheque dishonour"
+      },
+      {
+        "act": "Negotiable Instruments Act 1881",
+        "section": "Section 142",
+        "text": "Jurisdiction"
+      }
+    ]
+  },
+  {
+    "id": "ni_act_defense",
+    "keywords": [
+      "cheque defense",
+      "cheque case defense",
+      "section 138 defense",
+      "stop payment",
+      "post dated cheque"
+    ],
+    "topics": [
+      "ni"
+    ],
+    "question_te": "చెక్ బౌన్స్ కేసులో డిఫెన్స్ ఏమిటి?",
+    "question_en": "Defenses in cheque bounce case?",
+    "answer_te": "స్టాప్ పేమెంట్ చెల్లదు - అది కూడా సెక్షన్ 138 కింద నేరంగా పరిగణించబడుతుంది. చెల్లుబాటు అయ్యే రక్షణలు: చెక్ నకిలీది, చట్టపరమైన బాకీ లేదు, చెక్ సెక్యూరిటీగా మాత్రమే ఇవ్వబడింది, లీగల్ నోటీసు సరిగా ఇవ్వలేదు, కేసు సమయ పరిమితి దాటింది.",
+    "answer_en": "Stop payment is NOT a valid defense. Valid defenses: forged cheque, no legally enforceable debt, cheque as security, improper legal notice, expired limitation.",
+    "citations": [
+      {
+        "act": "Negotiable Instruments Act 1881",
+        "section": "Section 138",
+        "text": "Cheque dishonour"
+      }
+    ]
+  },
+  {
+    "id": "general_free_legal_aid",
+    "keywords": [
+      "free legal aid",
+      "ఉచిత న్యాయ సహాయం",
+      "legal aid",
+      "NALSA",
+      "legal services",
+      "free lawyer"
+    ],
+    "topics": [
+      "general"
+    ],
+    "question_te": "ఉచిత న్యాయ సహాయం ఎలా పొందాలి?",
+    "question_en": "How to get free legal aid?",
+    "answer_te": "Legal Services Authorities Act 1987 ప్రకారం: అర్హులు - SC/ST, మహిళలు, పిల్లలు, వికలాంగులు, ట్రాఫికింగ్/హింస బాధితులు, ₹1 లక్ష కంటే తక్కువ ఆదాయం ఉన్నవారు. NALSA/SLSA ప్రతి కోర్టు స్థాయిలో ఉచిత న్యాయ సహాయం అందిస్తాయి. హెల్ప్‌లైన్: 15100.",
+    "answer_en": "Legal Services Authorities Act 1987: Eligible SC/ST, women, children, disabled, low income (<₹1 lakh). NALSA/SLSA provides free legal aid. Helpline: 15100.",
+    "citations": [
+      {
+        "act": "Legal Services Authorities Act 1987",
+        "section": "Section 12",
+        "text": "Eligibility for legal aid"
+      }
+    ]
+  },
+  {
+    "id": "general_supreme_court",
+    "keywords": [
+      "supreme court",
+      "సుప్రీం కోర్టు",
+      "SLP",
+      "special leave petition",
+      "article 136",
+      "article 32",
+      "appeal"
+    ],
+    "topics": [
+      "general"
+    ],
+    "question_te": "సుప్రీం కోర్టుకు అప్పీల్ ఎలా చేయాలి?",
+    "question_en": "How to appeal to Supreme Court?",
+    "answer_te": "ఆర్టికల్ 136 (SLP) ద్వారా 90 రోజులలోపు అప్పీల్ చేయవచ్చు. ఆర్టికల్ 32: మౌలిక హక్కుల ఉల్లంఘనకు నేరుగా సుప్రీం కోర్టుకు వెళ్ళవచ్చు. సుప్రీం కోర్ట్ నిర్ణయం తుదిది మరియు అందరికీ బంధనకారి.",
+    "answer_en": "Appeal via Article 136 (SLP) within 90 days. Article 32: directly approach SC for fundamental rights violations. SC decision is final and binding.",
+    "citations": [
+      {
+        "act": "Constitution of India",
+        "section": "Article 136",
+        "text": "Special leave to appeal"
+      },
+      {
+        "act": "Constitution of India",
+        "section": "Article 32",
+        "text": "Constitutional remedies"
+      }
+    ]
+  },
+  {
+    "id": "general_limitation",
+    "keywords": [
+      "limitation",
+      "పరిమితి కాలం",
+      "limitation act",
+      "time limit",
+      "కేసు దాఖలు గడువు",
+      "statute of limitation"
+    ],
+    "topics": [
+      "general"
+    ],
+    "question_te": "కోర్టులో కేసు దాఖలు చేయడానికి సమయ పరిమితి ఎంత?",
+    "question_en": "What is the time limit for filing cases?",
+    "answer_te": "Limitation Act 1963: కాంట్రాక్ట్ వివాదాలు 3 సంవత్సరాలు, ఆస్తి వివాదాలు 12 సంవత్సరాలు, మాననష్టం 1 సంవత్సరం, వైద్య నిర్లక్ష్యం 2 సంవత్సరాలు. పరిమితి కాలం తర్వాత కోర్టు కొన్ని సందర్భాల్లో ఆలస్యాన్ని క్షమించగలదు.",
+    "answer_en": "Limitation Act 1963: Contract 3 years, Property 12 years, Defamation 1 year, Medical negligence 2 years. Court may condone delay in special cases.",
+    "citations": [
+      {
+        "act": "Limitation Act 1963",
+        "section": "Schedules 1-3",
+        "text": "Periods of limitation"
+      }
+    ]
+  },
+  {
+    "id": "general_sc_st_atrocities",
+    "keywords": [
+      "sc/st act",
+      "atrocities act",
+      "సంఘవిద్రోహ నిరోధక చట్టం",
+      "sc/st prevention",
+      "caste atrocities",
+      "తెగ అత్యాచారం"
+    ],
+    "topics": [
+      "general"
+    ],
+    "question_te": "SC/ST వారిపై అత్యాచారం జరిగితే ఏ చట్టం వర్తిస్తుంది?",
+    "question_en": "SC/ST atrocities - applicable law?",
+    "answer_te": "SC/ST (Prevention of Atrocities) Act 1989 ప్రకారం కులం ఆధారంగా అత్యాచారం నేరం. ప్రత్యేక కోర్టులు ఏర్పాటు. బాధితుడికి నష్టపరిహారం తప్పనిసరి. FIR నమోదు చేయడానికి నిరాకరిస్తే SP / ప్రత్యేక అధికారి ను ఆశ్రయించండి.",
+    "answer_en": "SC/ST Prevention of Atrocities Act 1989: Special courts, mandatory compensation. If FIR refused, approach SP/Special Officer.",
+    "citations": [
+      {
+        "act": "SC/ST (PoA) Act 1989",
+        "section": "Section 3",
+        "text": "Offenses of atrocities"
+      }
+    ]
+  },
+  {
+    "id": "dpdp_act",
+    "keywords": [
+      "dpdp",
+      "digital personal data protection",
+      "data protection",
+      "data privacy",
+      "dpdp act 2023",
+      "డేటా ప్రొటెక్షన్"
+    ],
+    "topics": [
+      "general"
+    ],
+    "question_te": "డిజిటల్ పర్సనల్ డేటా ప్రొటెక్షన్ చట్టం 2023 అంటే ఏమిటి?",
+    "question_en": "What is DPDP Act 2023?",
+    "answer_te": "DPDP చట్టం 2023 వ్యక్తిగత డేటా సేకరణ/ప్రాసెసింగ్ ను నియంత్రిస్తుంది. సమ్మతి తప్పనిసరి. డేటా బ్రీచ్ కు ₹250 కోట్ల వరకు జరిమానా. డేటా ప్రిన్సిపల్ హక్కులు: యాక్సెస్, కరెక్షన్, ఎరేజర్. పిల్లల డేటాకు ప్రత్యేక రక్షణ.",
+    "answer_en": "DPDP Act 2023: Consent mandatory, penalties up to ₹250 crore for data breaches, data principal rights (access, correction, erasure), special protection for children's data.",
+    "citations": [
+      {
+        "act": "Digital Personal Data Protection Act 2023",
+        "section": "Section 6",
+        "text": "Consent"
+      },
+      {
+        "act": "Digital Personal Data Protection Act 2023",
+        "section": "Section 33",
+        "text": "Penalties"
+      }
+    ]
+  },
+  {
+    "id": "companies_director",
+    "keywords": [
+      "director",
+      "డైరెక్టర్",
+      "company law",
+      "కంపెనీ చట్టం",
+      "companies act",
+      "board meeting",
+      "annual compliance"
+    ],
+    "topics": [
+      "business"
+    ],
+    "question_te": "కంపెనీ డైరెక్టర్ బాధ్యతలు ఏమిటి?",
+    "question_en": "What are director's duties?",
+    "answer_te": "కంపెనీల చట్టం 2013 సెక్షన్ 166: డైరెక్టర్ నిజాయితీగా పనిచేయడం, శ్రద్ధగా వ్యవహరించడం, కంపెనీ ప్రయోజనాలు పరిరక్షించడం, భాగస్వాములతో సమానంగా వ్యవహరించడం తప్పనిసరి. లాభాలను వ్యక్తిగతంగా సంపాదించకూడదు.",
+    "answer_en": "Companies Act 2013 S.166: act in good faith, with diligence, protect company interests, treat shareholders fairly. No secret profits.",
+    "citations": [
+      {
+        "act": "Companies Act 2013",
+        "section": "Section 166",
+        "text": "Duties of directors"
+      }
+    ]
+  },
+  {
+    "id": "companies_llp",
+    "keywords": [
+      "llp",
+      "llp registration",
+      "limited liability partnership",
+      "partnership",
+      "భాగస్వామ్య సంస్థ"
+    ],
+    "topics": [
+      "business"
+    ],
+    "question_te": "LLP నమోదు ఎలా చేయాలి?",
+    "question_en": "How to register an LLP?",
+    "answer_te": "LLP చట్టం 2008 ప్రకారం: కనీసం ఇద్దరు భాగస్వాములు అవసరం. LLP వ్యక్తిగత బాధ్యత నుండి రక్షిస్తుంది. కంపెనీ కంటే తక్కువ కంప్లయన్స్. ఏడాదికి ఆదాయపు పన్ను రిటర్న్ ఫైల్ చేయాలి.",
+    "answer_en": "LLP Act 2008: Min 2 partners, limited personal liability, less compliance than company. File income tax return annually.",
+    "citations": [
+      {
+        "act": "Limited Liability Partnership Act 2008",
+        "section": "Section 12",
+        "text": "LLP incorporation"
+      }
+    ]
+  }
+]
